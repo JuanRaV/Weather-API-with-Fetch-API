@@ -1,2 +1,2 @@
-# Weather-API-with-Fetch-API
+# Weather API with- Fetch API in <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 It is a page that makes the query to an API and shows the weather data of the selected city. Includes validation of the form.
